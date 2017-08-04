@@ -2,7 +2,7 @@
 """
 Created on Sun Jul 30 13:37:23 2017
 
-@author: HP
+@author: Swopnil Ojha
 """
 import numpy as np 
 from PyQt4 import QtGui,QtCore
